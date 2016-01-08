@@ -1,0 +1,28 @@
+name: ilovemytank
+favicon: null
+layout_spectrum: 0.40040209516882896
+typography_spectrum: 0.6083676654379815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5398233085870743
+  lightness: 0.12106157839298248
+  saturation: 0.06013646675273776
+  rhythmicContrast: 0.8785590194165707
+purpose: []
